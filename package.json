@@ -1,15 +1,15 @@
 {
   "name": "part-router-plugin",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "<wangpengyuduke@163.com.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Leek67373/partRouterPlugin#readme",
+  "homepage": "https://github.com/Leek67373/part-router-plugin.git#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leek67373/partRouterPlugin.git"
+    "url": "git+https://github.com/Leek67373/part-router-plugin.git"
   },
   "keywords": [],
   "sideEffects": false,
